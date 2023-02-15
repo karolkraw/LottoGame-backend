@@ -1,7 +1,7 @@
-# LottoGame - server
+# LottoGame - backend
 
-## Client
-https://github.com/karolkraw/LottoGame-client
+## Frontend
+https://github.com/karolkraw/LottoGame-frontend
 
 ## Table of Contents
 * [General Info](#general-information)
